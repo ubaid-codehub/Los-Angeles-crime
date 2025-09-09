@@ -1,0 +1,2 @@
+# Force Jupyter notebooks to be counted as Python
+*.ipynb linguist-language=Python
